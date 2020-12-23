@@ -1,0 +1,1 @@
+[{"id":101,"name":"pantalon","price":"500","category":"Jeans","quantity":7},{"id":102,"name":"blusa","price":"267","category":"blouses","quantity":5},{"id":103,"name":"tenis","price":"180","category":"shoes","quantity":10},{"id":104,"name":"faldas","price":"200","category":"skirt","quantity":3},{"id":105,"name":"playera","price":"30","category":"t-shirt","quantity":6}]
